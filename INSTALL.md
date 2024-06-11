@@ -1,19 +1,17 @@
-## Dark Castle Theme for [Example](https://example.com)
+## Dark Castle Theme for [Xcode](https://developer.apple.com/xcode/)
 
-### Install using Git
+### Install Manually
 
-If you are a git user, you1 can install the theme and keep it up to date by cloning the repo:
+1. Download using the [GitHub .zip download](https://github.com/scottgriv/Dark-Castle-Xcode/archive/main.zip) option and unzip them.
+2. Create the custom themes folder:
 
 ```bash
-git clone https://github.com/scottgriv/Dark-Castle-Example.git
+ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
-### Install manually
+3. Move `Dark Castle.xccolortheme` file to this custom themes folder.
 
-Download using the [GitHub `.zip` download](https://github.com/scottgriv/Dark-Castle-Example/archive/main.zip) option and unzip them.
+### Activating the Theme
 
-### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. In the menu bar: `Xcode -> Settings -> Themes`
+2. Select the **Dark Castle** theme
