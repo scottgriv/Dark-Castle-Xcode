@@ -13,5 +13,7 @@
 
 #### Activating the Theme
 
-1. In the menu bar: `Xcode -> Settings -> Themes`
-2. Select the **Dark Castle** theme
+1. In the menu bar: `Xcode -> Settings -> Themes`;
+2. Select the **Dark Castle** theme;
+3. If you do not see it, you may need to restart `Xcode`;
+4. Enjoy!

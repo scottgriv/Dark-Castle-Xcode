@@ -89,23 +89,23 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.101961 0.0980392 0.0980392 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>1 0.501961 0.25098 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.2 0.2 0.2 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.29228 0.280247 0.251752 1</string>
+	<string>0.294118 0.278431 0.25098 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
 		<string>0.176471 0.266667 0.607843 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.469 0.426 1 1</string>
+		<string>0.0313725 0.823529 0.12549 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.0509804 0.521569 0.00392157 1</string>
 		<key>xcode.syntax.comment.doc</key>
 		<string>0.255 0.801 0.27 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.255 0.801 0.27 1</string>
+		<string>0.254902 0.8 0.270588 1</string>
 		<key>xcode.syntax.declaration.other</key>
 		<string>1 0.333333 0.0117647 1</string>
 		<key>xcode.syntax.declaration.type</key>
@@ -113,7 +113,7 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.729412 0.901961 0.494118 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.611765 0.611765 0.611765 1</string>
+		<string>0.729412 0.901961 0.494118 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>1 0.835294 0.501961 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
@@ -123,17 +123,17 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>1 0.333333 0.0117647 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>1 0.501961 0.25098 1</string>
+		<string>0 0.482353 0.533333 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.896 0.488 0.284 1</string>
+		<string>0 0.482353 0.533333 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.0509804 0.521569 0.00392157 1</string>
+		<string>0 0.482353 0.533333 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.301961 0.737255 0.929412 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.0313725 0.823529 0.12549 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>1 0.501961 0.25098 1</string>
+		<string>0.0313725 0.823529 0.12549 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.666667 0.105882 0.52549 1</string>
 		<key>xcode.syntax.mark</key>
